@@ -7,6 +7,8 @@ typedef struct {
         int prioridad;
 } Linea;
 
+// T4
+
 int main(int argc, char **argv) {
         if (argc != 4) {
                 printf("Uso: ./upsert <nom_archivo> <valor> <prioridad>\n");
