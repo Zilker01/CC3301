@@ -7,6 +7,8 @@
 
 #include "fav.h"
 
+// T7
+
 int favorables_par(int n, int sum, int rep, int p) {
   int pids[p];
   int fds[p][2];
