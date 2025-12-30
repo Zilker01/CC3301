@@ -3,6 +3,8 @@
 #include <stdint.h>
 #include "elim-dup.h"
 
+// T1
+
 // Elimina dígitos hexadecimales consecutivos repetidos en un número de 64 bits.
 
 uint64_t elimDup(uint64_t x) {
