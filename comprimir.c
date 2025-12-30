@@ -4,6 +4,8 @@
 
 #include "comprimir.h"
 
+// T2
+
 void comprimir(char *str) {
     if (*str == 0) return;
 
