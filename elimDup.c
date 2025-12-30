@@ -3,6 +3,8 @@
 
 #include "elimDup.h"
 
+// T3
+
 void elimDup(Nodo *L){
   while (L != NULL && L->prox != NULL){
     if(L->x == L->prox->x){
